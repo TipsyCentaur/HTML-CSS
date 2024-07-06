@@ -1,0 +1,33 @@
+HTML tells the computer what we want it to do for our website
+<button>"text"</button>
+    This creates a button on a website for you to see and interact with
+<p>"text"</p>
+    This creates a paragraph of text on the website
+Where the code written effects the location on the website
+The computer follows our instructions line by line
+
+Syntax is rules for writing code (grammar for code)
+<"tag name"> = openeing tag
+</"tag name"> = closing tag
+
+<a> = anchor element (link to another website)
+href="(link)" tells the anchor element where to go
+target="_blank" sends the link to another page
+
+HTML ignores spacing so make sure to make your code neat and organized
+
+CSS is styling our website (Change the appearance of HTML elements)
+
+<style> will allow you to change colors on your button or your element
+
+<style> then wrtie the element you'd like to adjust
+
+class="" allows you to label an element
+
+General Technique:
+    1. Create element with HTML
+    2. Style with CSS one-by-one
+
+margin is how to add space
+
+The trick with round buttons is to set the border-radius to half of the height or width whichever is lower
