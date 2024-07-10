@@ -31,3 +31,32 @@ General Technique:
 margin is how to add space
 
 The trick with round buttons is to set the border-radius to half of the height or width whichever is lower
+<style>
+    ."class" {}
+        color is text
+        background-color is background
+        cursor: pointer is pointer finger
+        margin is how to add spacing
+        font-weight: is bold or italisized
+        border-radius is the curved edges on the buttons
+            border radius should be half of the lowest px whether height or width whichever is lowest
+
+."class":hover is how to change the button when hovering over
+."class":active changes how it looks when you interact with the button
+
+opacity: changes how see thru the button looks
+    changing the opacity makes the button look lighter like on the subscribe button
+    the values are 0-1
+        1 being the highest (completly normal)
+        0 being the lowest (completly see thru)
+
+transition: "property" (x)s
+    0.15s is a generally good speed for transitions
+
+you can transition muliple properties by adding a comma after the previous property
+
+To make shadows on the button you do box-shadow
+    box-shadow: (+-x) (+-y) (z) "rbga"
+        x is horizontal position
+        y is vertical position
+        z is blurr
