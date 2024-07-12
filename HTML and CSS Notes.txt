@@ -60,3 +60,12 @@ To make shadows on the button you do box-shadow
         x is horizontal position
         y is vertical position
         z is blurr
+
+CHROME TOOLS
+
+Hex is another way to make a color like rbg
+    pairs of two first is r second is b third pair is g
+    a way to convert to rgb is to just go to a hex to rgb calculator online and plug in the numbers.
+
+Computed tab shows all the styles on the button
+
