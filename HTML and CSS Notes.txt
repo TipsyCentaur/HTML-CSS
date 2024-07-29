@@ -69,3 +69,9 @@ Hex is another way to make a color like rbg
 
 Computed tab shows all the styles on the button
 
+CSS Box Model
+    -How much space an element takes up
+    -How far it is away from other elements
+
+Padding is the space inbetween the text and the border and it will change with the amount of text you insert
+
